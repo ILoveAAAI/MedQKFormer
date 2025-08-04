@@ -18,7 +18,9 @@ Spiking Self-Attention (SSA) has shown potential in medical image segmentation d
     <img width="400" alt="image" src="figures/challenge.png?raw=true">
 </div>
 
+<div align="center">
 The challenges: The misleading co-occurrence of salient and non-salient objects.
+</div>
 
 ## 📻 Overview
 
@@ -26,7 +28,9 @@ The challenges: The misleading co-occurrence of salient and non-salient objects.
 <img width="800" alt="image" src="figures/network.png?raw=true">
 </div>
 
+<div align="center">
 Illustration of the overall architecture.
+</div>
 
 
 ## 📆 TODO
